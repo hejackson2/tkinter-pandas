@@ -1,2 +1,2 @@
 # tkinter-pandas
-Testing the display of a pandas dataframe in a Tkinter application
+testing the display of dataframe w/ tkinter
